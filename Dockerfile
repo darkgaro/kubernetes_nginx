@@ -1,4 +1,4 @@
-FROM debian:wheezy
+FROM ubuntu:14.04
 
 MAINTAINER ryan.richard@rackspace.com
 
